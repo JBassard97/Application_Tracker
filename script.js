@@ -22,7 +22,9 @@ window.addEventListener("DOMContentLoaded", function () {
         <p class="label"><b>Status:</b></p>
         ${issue.status} 
         <p class="label"><b>Platform:</b></p>
-        ${issue.hiringPlatform} 
+        ${issue.hiringPlatform}
+        <p class="label"><b>Pay Range:</b></p>
+        ${issue.payRange}  
         <p class="label"><b>Cold Email:</b></p>
         ${issue.coldEmailed} 
         </div>
