@@ -18,7 +18,7 @@ window.addEventListener("DOMContentLoaded", function () {
         <p class="label"><b>Company:</b></p>
         ${issue.company} 
         <p class="label"><b>Position:</b></p>
-        ${issue.positon} 
+        ${issue.job} 
         <p class="label"><b>Status:</b></p>
         ${issue.status} 
         <p class="label"><b>Platform:</b></p>
